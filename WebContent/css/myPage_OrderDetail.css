@@ -1,0 +1,71 @@
+    hr{
+        width: 70%;
+        background-color: black;
+        margin-left: 1%;
+        margin-top: 0.5%;
+        margin-bottom: 0.5%;
+    }  
+
+    .row{
+        width: 100%;
+    }
+
+    .wrap{
+        margin-left: 2%;
+        width: 100%;
+        margin-top : 2%;
+    }
+
+    .tag-1{
+        width: 17%;
+        height: 40px;
+        font-size: 12px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    .context-1{
+        width: 25%;
+        height: 40px;
+        font-size: 12px;
+        font-weight: 400;
+        text-align: center;
+    }
+   
+   #checked{
+       font-size: 10px;
+       font-weight: 900;
+       width: 50px;
+       height: 23px;
+       text-align: center;
+       vertical-align: middle;
+       padding: 0%;
+       padding-top: 0.3%;
+       margin-left: 40%;
+       margin-top: 8%;
+   }
+   
+
+    #table1{
+        border-top: black solid 1px;
+        width: 80%;
+        height: 100%;
+    }
+
+    #head1{
+        font-size: 14px;
+        font-weight: 900;
+        margin-bottom: 2%;
+    }
+
+   #img{
+       width: 25%;
+   }
+
+   #orderDate{
+       width: 70%;
+       height: 50px;
+       font-size: 12px;
+       font-weight: 800;
+       padding-top: 1%;
+   }

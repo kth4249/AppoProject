@@ -1,0 +1,25 @@
+hr{
+        width: 50%;
+        color: black;
+        border: solid 1px black;
+    }
+
+    h6{
+        padding-top: 10px;
+        font-weight: 700;
+    }
+
+    p{
+        padding-bottom: 10px;
+        font-size: 10px;
+    }
+        
+    
+    .element{
+        border: 1px solid black;
+        width: 50%;
+        height: 70px;
+        margin-left: 25%;
+        background-color: lightgray;
+        cursor: pointer;
+    }

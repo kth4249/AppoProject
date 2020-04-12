@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+.container_1 {
+  max-width: auto;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+
+.num2{
+  color: royalblue
+}
+
+.order{
+  display: inline;
+}
+.order2{
+  width: 50%;
+  display: inline-block;
+}
+.order3{
+  width: 50%;
+  display: inline;
+}
+.productimgbox{
+  border: 1px solid gray;
+  width: 100px;
+  height: 100px;
+}
+.img5x5{
+  width: 100px;
+  height: auto;
+}
+#hrcss{
+  border: 0.5px solid rgb(0,0,0,0.2);
+}
+#producttitle{
+  margin-left: 0.5rem;
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: steelblue;
+}
+#producttxt{
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.productstatus{
+  margin: 0;
+  margin-left: 1rem;
+  font-size: small;
+  color: black;
+}
+.detailtxt{
+  margin: 0;
+  font-size: small;
+  color: gray;
+}
+.isth{
+  width: 100px;
+}
+.pull-right {
+  float: right !important;
+}
+#producttitle2{
+  margin-left: 0.5rem;
+  font-weight: bold;
+  color: steelblue;
+}
+.productstatus2{
+  margin-left: 1rem;
+  font-size: small;
+  color: black;
+}
+.detailtxt2{
+  font-size: small;
+  color: gray;
+}
+.totalprice{
+  font-size: large;
+}
+#undobutton{
+  margin-left: 5rem;
+}
+#warningtxt{
+  color: red;
+  margin-left: 4rem;
+}
+#mainbutt{
+  width: 300px;
+}
+#paybutt{
+  width: 300px;
+}
+.paymentText{
+	color: red;
+}

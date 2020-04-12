@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+.navbar {
+  background-color: black;
+  margin-bottom: 20px;
+  
+}
+.navbar-nav>li>a{
+  padding-left: 500px;
+}
+
+.dropdown{
+  position: relative;
+  display: inline-block;
+
+}
+
+.dropdown-menu{
+  position: absolute;
+
+}
+
+.dropdown-menu >li >a{
+  list-style-type: none;
+  background-color: rgb(0, 0, 0, 0.5);
+  color: white;
+
+}
+
